@@ -67,8 +67,8 @@
                  disable transitive filtering. -->
             <useTransitiveFiltering>true</useTransitiveFiltering>
             <excludes>
-                <exclude>io.confluent:common-*</exclude>
-                <exclude>com.google.guava:guava</exclude>
+<!--                <exclude>io.confluent:common-*</exclude>-->
+<!--                <exclude>com.google.guava:guava</exclude>-->
             </excludes>
         </dependencySet>
     </dependencySets>
